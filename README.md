@@ -1,2 +1,2 @@
-# shiny_au_population
-Overview of total Australian population since 2205 using R shiny
+# R shiny application to display total Australian population since 2005
+Overview of total Australian population since 2005 using R shiny
